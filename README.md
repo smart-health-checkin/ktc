@@ -7,7 +7,8 @@ pre-visit check-in workstream.
 | --- | --- | --- |
 | `closing-the-loop.html` | *Pre-Visit Check-in: Closing the Loop* — the options, trade-offs, and proposal | <https://smart-health-checkin.org/ktc/closing-the-loop/> |
 
-Pages under `smart-health-checkin.org` are served from the
-[checkin-provider-kit](https://github.com/smart-health-checkin/checkin-provider-kit)
-site build, which vendors these files via `scripts/vendor-ktc.sh`. Edit them
-here; re-run that script to publish.
+Pages under `smart-health-checkin.org` are served by the
+[smart-health-checkin.github.io](https://github.com/smart-health-checkin/smart-health-checkin.github.io)
+repo: its deploy workflow checks this repo out and copies the deck into the
+apex site. Edit here and push `main`, then run that repo's "Deploy the apex"
+workflow (or push any change to it) to publish.

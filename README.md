@@ -12,3 +12,5 @@ Pages under `smart-health-checkin.org` are served by the
 repo: its deploy workflow checks this repo out and copies the deck into the
 apex site. Edit here and push `main`, then run that repo's "Deploy the apex"
 workflow (or push any change to it) to publish.
+
+The SMART Health Check-in connectathon materials live in [smart-health-checkin/connectathon](https://github.com/smart-health-checkin/connectathon), served at <https://smart-health-checkin.org/connectathon/>.

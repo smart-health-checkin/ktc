@@ -1,16 +1,5 @@
-# KTC — Kill the Clipboard working materials
+# KTC working materials (archived)
 
-Decks and briefs for the CMS Health Tech Ecosystem **Kill the Clipboard**
-pre-visit check-in workstream.
+This repo is archived. Its one deck, *Pre-Visit Check-in: Closing the Loop*, now lives in [smart-health-checkin.github.io](https://github.com/smart-health-checkin/smart-health-checkin.github.io/tree/main/ktc) and is still published at <https://smart-health-checkin.org/ktc/closing-the-loop/>.
 
-| File | What it is | Published at |
-| --- | --- | --- |
-| `closing-the-loop.html` | *Pre-Visit Check-in: Closing the Loop* — the options, trade-offs, and proposal | <https://smart-health-checkin.org/ktc/closing-the-loop/> |
-
-Pages under `smart-health-checkin.org` are served by the
-[smart-health-checkin.github.io](https://github.com/smart-health-checkin/smart-health-checkin.github.io)
-repo: its deploy workflow checks this repo out and copies the deck into the
-apex site. Edit here and push `main`, then run that repo's "Deploy the apex"
-workflow (or push any change to it) to publish.
-
-The SMART Health Check-in connectathon materials live in [smart-health-checkin/connectathon](https://github.com/smart-health-checkin/connectathon), served at <https://smart-health-checkin.org/connectathon/>.
+The SMART Health Check-in connectathon materials are in [smart-health-checkin/connectathon](https://github.com/smart-health-checkin/connectathon).
